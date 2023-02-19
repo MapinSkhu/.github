@@ -8,7 +8,7 @@
 <div align='center'>
 <a href='https://mapinskhu.com/'>
 <img src='https://img.shields.io/badge/-HomePage-brightgreen'></a>  
-<a href='https://github.com/GraceKim527/SkhuGether'>
+<a href='https://github.com/MapinSkhu'>
 <img src='https://img.shields.io/badge/-github-lightgrey'></a>
 <a href='https://www.youtube.com/watch?v=ZJNcamRVLr0'>
 <img src='https://img.shields.io/badge/-youtube-red'></a>
